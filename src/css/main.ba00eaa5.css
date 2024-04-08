@@ -15299,7 +15299,7 @@ section {
 }
 
 @media (min-width:1600px) {
-    .minW1600\:\ !block {
+    .minW1600\:\ block {
         display: block !important
     }
 }
@@ -15332,7 +15332,7 @@ section {
     .xxs\:-mb-\[6rem\] {
         margin-bottom: -6rem
     }
-    .xxs\:\ !px-4 {
+    .xxs\:\ px-4 {
         padding-left: 1rem !important;
         padding-right: 1rem !important
     }
@@ -15357,7 +15357,7 @@ section {
     .xx\:w-\[95px\] {
         width: 95px
     }
-    .xx\:\ !px-8 {
+    .xx\:\ px-8 {
         padding-left: 2rem !important;
         padding-right: 2rem !important
     }
@@ -15966,7 +15966,7 @@ section {
     .xl\:gap-\[2rem\] {
         gap: 2rem
     }
-    .xl\:\ !px-4 {
+    .xl\:\ px-4 {
         padding-left: 1rem !important;
         padding-right: 1rem !important
     }
